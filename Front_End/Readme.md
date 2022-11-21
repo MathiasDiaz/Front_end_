@@ -1,0 +1,2 @@
+Fecha:14/11/2022 Estoy empezando a hacer el proyecto, cree un archivo html y css.
+Fecha:15/11/2022 Le sume algunas cosas de html y css de un proyecto que ya tenia aparte de meter botones de redes y inico de sesion entre otras cosas que estan el navbar

@@ -1,0 +1,146 @@
+html {
+    height: 100%;
+    }
+body {
+   width: 100%;
+   background-color:dodgerblue;
+ 
+}
+.articulo h1{
+    text-align:center;
+}
+
+.header >.logo{
+    background-color: black;
+}
+.informacion{
+ font-size: x-large;
+}
+.foto_1{
+    width:25rem;
+    height:25rem;
+    border-radius: 25rem;
+    border: 7px solid rgb(24, 82, 136);
+    display: flex;
+    }
+.encuadro{
+    display: flex;
+}
+h2{
+    float: left;
+}
+.informacion{
+    text-align: left;
+    
+}
+.acerca_de_mi {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 5%;
+    text-align: justify;
+    font-style:oblique;
+    background-color: lightblue;
+    border-width: 0.9rem;
+    border-style: solid;
+    border-color: black;
+}
+.acerca_de_mi > .descripcion{
+    margin-top: 3ex;
+    }
+.text-white{
+background-color: darkcyan;
+border-width: 0.4ex;
+border-style: solid;
+border-color: gray;
+margin-bottom: 3%;
+}
+.experiencia{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    font-style:oblique;
+    background-color: lightblue;
+    border-width: 0.9rem;
+    border-style: solid;
+    border-color: black;
+    display: flex;
+}
+.experiencia p {
+    font-size: x-large;
+}
+.card{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card-group{
+    margin-bottom: 4%
+}
+label{
+color:white;
+display: flex;
+
+}
+.progress{
+    margin-right: 30%;
+    margin-bottom: 5%;
+}
+label>p{
+    color: black;
+}
+
+.btn-group{
+margin-left: 40%;
+margin-bottom: 5%;
+}
+i{
+    margin-left: 5%;
+}
+.iconorevelde{
+    background-color:black;
+    margin-left: 97%;
+}
+button{
+    color: aliceblue;
+    background-color: white;
+    border: 2px gray;
+    border-style: solid;
+    margin-right: 2px;
+    margin-left:10px;  
+}
+.container-xxl{
+    text-decoration: none;
+    background-color: black ;
+    color: white;
+    text-align: center;
+    position:fixed;
+    top: 95%;
+    left: 0%;
+    right: 0%;
+    bottom: 0em;
+    left: 0%;
+}
+.iconitos1{
+    margin-left: 89%;
+    display: flex;
+}
+.iconitos2{
+    margin-left: 82%;
+    display: flex;
+}
+.iconitos3{
+    margin-left: 47%;
+    display: flex;
+}
+.iconitos4{
+    margin-left: 92%;
+    display: flex;
+}
+.iconitos5{
+    margin-left: 84%;
+    display: flex;
+}
+.icono-img{
+margin-left: 1%;
+display: flex;
+margin-top: 15%;
+}
